@@ -1,4 +1,4 @@
-[![Python package](https://github.com/willf/streaming_stats/workflows/test.yml/badge.svg)](https://github.com/willf/streaming_stats/actions)
+[![Python package](https://github.com/willf/streaming_stats/actions/workflows/test.yml/badge.svg)](https://github.com/willf/streaming_stats/actions)
 
 ## Streaming statistics
 
