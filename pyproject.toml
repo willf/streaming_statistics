@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "streaming-stats"
 version = "0.1.0"
-description = ""
+description = "A streaming statistics library"
 authors = ["Will Fitzgerald <willf@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+ppython = ">=3.8.1"
 ddsketch = "^3.0.1"
 
 
