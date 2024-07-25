@@ -89,6 +89,7 @@ class StreamingStats:
         }
 
 
-def stats(iterable, accumulator=StreamingStats()):
+def stats(iterable):
+    accumulator = StreamingStats()
     accumulator.extend(iterable)
     return accumulator.dict()
