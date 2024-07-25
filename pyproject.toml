@@ -6,7 +6,7 @@ authors = ["Will Fitzgerald <willf@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-ppython = ">=3.8.1"
+python = ">=3.8.1"
 ddsketch = "^3.0.1"
 
 
