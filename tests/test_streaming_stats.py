@@ -1,4 +1,4 @@
-from streaming_stats.streaming_stats import stats
+from streaming_statistics.stats import stats
 import math
 import numpy as np
 import pytest
