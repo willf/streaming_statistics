@@ -1,3 +1,5 @@
+[![Python package](https://github.com/willf/streaming_stats/workflows/test.yml/badge.svg)](https://github.com/willf/streaming_stats/actions)
+
 ## Streaming statistics
 
 This is module for streaming statistics. It can efficiently calculate statistics on a stream of numbers in a minimum amount of memory.
