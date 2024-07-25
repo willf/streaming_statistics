@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "streaming-statistics"
-version = "1.0.1"
+version = "1.0.2"
 description = "A streaming statistics library"
 authors = ["Will Fitzgerald <willf@users.noreply.github.com>"]
 readme = "README.md"
