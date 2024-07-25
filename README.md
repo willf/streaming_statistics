@@ -54,3 +54,7 @@ $ poetry shell
 ```
 
 It is also available as a Python package on PyPI.
+
+```sh
+$ pip install streaming_statistics
+```
