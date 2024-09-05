@@ -1,3 +1,5 @@
+_Note: This is the Python package. The Ruby package source is [streaming_stats_ruby](https://github.com/willf/streaming_statistics_ruby)._
+
 [![Python package](https://github.com/willf/streaming_stats/actions/workflows/test.yml/badge.svg)](https://github.com/willf/streaming_stats/actions)
 
 ## Streaming statistics
